@@ -1,11 +1,11 @@
 @font-face {
 	font-family: "nicons";
-	src: url('../fonts/nicons.eot');
-	src: url('../fonts/nicons.eot?#iefix') format('eot'),
-		url('../fonts/nicons.woff2') format('woff2'),
-		url('../fonts/nicons.woff') format('woff'),
-		url('../fonts/nicons.ttf') format('truetype'),
-		url('../fonts/nicons.svg#nicons') format('svg');
+	src: url('/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.eot');
+	src: url('/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.eot#iefix') format('eot'),
+		url('/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.woff2') format('woff2'),
+		url('/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.woff') format('woff'),
+		url('/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.ttf') format('truetype'),
+		url('/wp-content/plugins/elementor-extras/assets/lib/nicons/fonts/nicons.svg#nicons') format('svg');
 }
 
 .nicon {
