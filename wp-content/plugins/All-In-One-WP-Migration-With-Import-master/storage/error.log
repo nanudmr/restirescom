@@ -1,0 +1,12 @@
+Apr 19 2021 11:32:34
+{"Number":8,"Message":"fgets(): read of 8192 bytes failed with errno=116 Stale file handle","File":"\/hermes\/bosnaweb28a\/b1505\/nf.restirescom\/public_html\/restires\/wp-content\/plugins\/All-In-One-WP-Migration-With-Import-master\/lib\/model\/export\/class-ai1wm-export-content.php","Line":97}
+
+Apr 19 2021 11:32:34
+{"Number":2,"Message":"fopen(\/hermes\/bosnaweb28a\/b1505\/nf.restirescom\/public_html\/restires\/wp-content\/plugins\/elementor-): failed to open stream: No such file or directory","File":"\/hermes\/bosnaweb28a\/b1505\/nf.restirescom\/public_html\/restires\/wp-content\/plugins\/All-In-One-WP-Migration-With-Import-master\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Apr 19 2021 11:32:34
+{"Number":2,"Message":"filesize(): stat failed for \/hermes\/bosnaweb28a\/b1505\/nf.restirescom\/public_html\/restires\/wp-content\/plugins\/All-In-One-WP-Migration-With-Import-master\/storage\/v60mqg8ir1qx\/restires.com-20210419-113223-616.wpress","File":"\/hermes\/bosnaweb28a\/b1505\/nf.restirescom\/public_html\/restires\/wp-content\/plugins\/All-In-One-WP-Migration-With-Import-master\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":217}
+
+Apr 19 2021 11:40:29
+{"Number":2,"Message":"fopen(\/hermes\/bosnaweb28a\/b1505\/nf.restirescom\/public_html\/restires\/wp-content\/plugins\/All-In-One-WP-Migration-With-Import-master\/storage\/ti0xragnj4uv\/restires.com-20210419-113300-950.wpress): failed to open stream: No such file or directory","File":"\/hermes\/bosnaweb28a\/b1505\/nf.restirescom\/public_html\/restires\/wp-content\/plugins\/All-In-One-WP-Migration-With-Import-master\/functions.php","Line":1138}
+

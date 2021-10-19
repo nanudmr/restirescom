@@ -1,0 +1,53 @@
+{
+    "restires.com": {
+        "siteId": "lVfciQvRJMzaRfHzXqJFAADhCIsjdpaK",
+        "siteSecret": "5bjR5xiTsmb9TjyO7oXcSf9lfddMBoY5T6phMIx1EmF4XU7pMcf4ietvraSKJFoS",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "2982169d11e7faaaa9e1fd65b4df6fa8",
+        "home_url": "https:\/\/restires.com",
+        "admin_url": "https:\/\/restires.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.6"
+    },
+    "localhost:8888\/wordpress": {
+        "siteId": "lVfciQvRJMzaRfHzXqJFAADhCIsjdpaK",
+        "siteSecret": "5bjR5xiTsmb9TjyO7oXcSf9lfddMBoY5T6phMIx1EmF4XU7pMcf4ietvraSKJFoS",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "2982169d11e7faaaa9e1fd65b4df6fa8",
+        "home_url": "http:\/\/localhost:8888\/wordpress",
+        "admin_url": "http:\/\/localhost:8888\/wordpress\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.6"
+    },
+    "localhost:8888\/restires-git": {
+        "siteId": "lVfciQvRJMzaRfHzXqJFAADhCIsjdpaK",
+        "siteSecret": "5bjR5xiTsmb9TjyO7oXcSf9lfddMBoY5T6phMIx1EmF4XU7pMcf4ietvraSKJFoS",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "2982169d11e7faaaa9e1fd65b4df6fa8",
+        "home_url": "http:\/\/localhost:8888\/restires-git",
+        "admin_url": "http:\/\/localhost:8888\/restires-git\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.6"
+    }
+}
